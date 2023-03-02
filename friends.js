@@ -4,3 +4,9 @@ for (var n = 0; n < numbers.length; n++) {
         console.log(numbers[n]);
     }
 }
+
+for (var n = 0; n < numbers.length; n++) {
+    if (numbers[n] < 60) {
+        console.log(numbers[n]);
+    }
+}
